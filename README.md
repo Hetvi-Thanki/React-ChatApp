@@ -1,3 +1,10 @@
+You can watch the site using https://myreact-chat-app.netlify.app 
+use credentials:
+Username: Hetvi
+Password: 123456
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
